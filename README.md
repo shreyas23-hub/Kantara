@@ -13,5 +13,5 @@ It displays the *Madana Manamohini* song lyrics line-by-line with glowing Kannad
 madana-manamohini/
 │
 ├── index.html
-├── README.md   ← here
+├── README.md   
 └── assets/
